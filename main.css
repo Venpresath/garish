@@ -1,0 +1,17 @@
+p{
+	font-family:'Comic Sans Ms';
+	color: orange;
+}
+
+.red{
+	color: yellow;
+}
+
+.killer{
+	font-size: 200%;
+	color: red;
+}
+
+body{
+	background-color: papayawhip;
+}
